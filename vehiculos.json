@@ -1,0 +1,301 @@
+vehiculo_id,marca,modelo,anio_fabricacion,combustible,transmision,potencia_cv,cilindrada,consumo_urbano,consumo_extraurbano,emisiones_co2,precio_base,segmento
+VH001,Peugeot,208,2018,Híbrido,Manual,147,1400,6.9,5.5,149,34600,Compacto
+VH002,Hyundai,i20,2018,Gasolina,Manual,219,2000,4.1,4.1,149,36500,Sedán
+VH003,Kia,Ev6,2020,Híbrido,Manual,130,2200,5.7,4.3,107,34800,Deportivo
+VH004,Ford,Puma,2018,Gasolina,Automática,178,2000,5.1,3.6,138,35200,SUV
+VH005,Hyundai,i20,2022,Gasolina,Automática,237,1400,6.8,3.6,109,38800,SUV
+VH006,Toyota,Yaris,2024,Gasolina,Automática,206,2200,7.3,4.0,125,37900,Compacto
+VH007,Audi,A3,2022,Diésel,Manual,131,1800,5.5,6.5,151,29100,Compacto
+VH008,Ford,Puma,2019,Híbrido,Automática,192,1600,4.3,6.2,152,40600,Executive
+VH009,Ford,Kuga,2023,Diésel,Automática,126,1600,4.6,5.7,148,30300,Compacto
+VH010,Renault,Austral,2022,Gasolina,Manual,125,2000,6.0,5.8,94,29000,Compacto
+VH011,BMW,X1,2022,Gasolina,Automática,242,1800,6.1,6.4,81,40000,SUV
+VH012,Toyota,RAV4,2024,Diésel,Manual,165,1800,4.6,3.5,113,31800,Deportivo
+VH013,BMW,Serie 3,2024,Diésel,Manual,129,1600,7.1,5.1,147,28500,Executive
+VH014,Renault,Renault 5,2021,Gasolina,Automática,168,1400,4.2,6.1,90,33200,Compacto
+VH015,Kia,Niro,2024,Diésel,Manual,122,2200,5.9,5.1,113,29200,SUV
+VH016,Renault,Austral,2019,Eléctrico,Manual,318,0,1.8,2.8,0,55400,SUV
+VH017,Kia,Ev6,2021,Gasolina,Manual,106,1600,4.1,5.2,155,26700,Compacto
+VH018,Toyota,Corolla,2019,Gasolina,Manual,174,1200,6.1,4.3,142,31300,Compacto
+VH019,BMW,X1,2019,Híbrido,Automática,138,1200,4.4,4.8,134,35400,Sedán
+VH020,Citroën,C3,2023,Diésel,Manual,105,1800,6.9,5.9,93,27000,Compacto
+VH021,Mercedes,Clase E,2019,Diésel,Automática,208,1400,7.5,3.7,150,36400,Compacto
+VH022,Peugeot,508,2024,Gasolina,Manual,150,1400,5.6,4.9,131,29800,Executive
+VH023,BMW,X1,2018,Eléctrico,Automática,336,0,2.3,2.1,0,58900,SUV
+VH024,Citroën,Space,2023,Híbrido,Manual,138,1600,4.9,3.7,149,34200,Compacto
+VH025,Ford,Puma,2018,Diésel,Manual,104,2000,4.3,4.1,156,27300,Compacto
+VH026,Mercedes,Clase E,2018,Eléctrico,Manual,284,0,2.1,2.4,0,52700,Sedán
+VH027,Renault,Arkana,2022,Gasolina,Automática,142,2200,6.9,4.2,130,32800,Compacto
+VH028,Peugeot,2008,2021,Gasolina,Manual,92,1800,6.5,5.2,92,26000,Compacto
+VH029,Mercedes,GLC,2019,Eléctrico,Manual,198,0,1.9,2.0,0,45800,Executive
+VH030,Citroën,C4,2022,Eléctrico,Manual,306,0,2.3,2.1,0,54500,SUV
+VH031,BMW,X3,2018,Híbrido,Manual,159,1600,6.4,5.7,106,35900,SUV
+VH032,Audi,Q5,2020,Eléctrico,Manual,159,0,2.1,2.6,0,42700,Compacto
+VH033,Ford,Kuga,2023,Eléctrico,Manual,325,0,1.9,2.5,0,56000,SUV
+VH034,Toyota,Corolla,2023,Eléctrico,Manual,230,0,2.1,1.9,0,48400,Compacto
+VH035,Audi,Q3,2024,Eléctrico,Manual,227,0,1.7,2.0,0,48200,Compacto
+VH036,Seat,Ateca,2022,Híbrido,Manual,131,1400,7.5,3.6,122,33300,SUV
+VH037,Hyundai,i30,2020,Gasolina,Manual,187,1200,7.4,4.2,138,32400,Sedán
+VH038,Mercedes,Clase C,2018,Diésel,Automática,174,1600,7.5,6.4,115,34100,Sedán
+VH039,Seat,Ateca,2023,Eléctrico,Automática,143,0,1.6,2.8,0,43400,Compacto
+VH040,Audi,A3,2018,Diésel,Automática,170,1800,6.4,5.0,129,34200,Executive
+VH041,Mercedes,GLC,2018,Híbrido,Manual,223,2000,6.7,6.3,105,41800,Sedán
+VH042,Toyota,RAV4,2022,Gasolina,Manual,166,2000,5.2,4.7,131,32300,SUV
+VH043,Seat,Ibiza,2019,Diésel,Automática,134,2000,6.3,4.7,80,31700,Sedán
+VH044,Mercedes,Clase E,2024,Diésel,Automática,209,1800,5.8,4.1,140,37300,SUV
+VH045,Citroën,C5,2023,Gasolina,Automática,113,1400,6.7,4.2,105,28800,Compacto
+VH046,Volkswagen,Polo,2021,Diésel,Manual,206,1800,7.5,5.2,129,35100,Sedán
+VH047,Mercedes,Clase C,2023,Diésel,Manual,198,1400,4.7,6.4,146,33600,Sedán
+VH048,Seat,Ibiza,2024,Gasolina,Manual,208,2200,6.1,5.2,120,36000,Deportivo
+VH049,Kia,Ev6,2024,Híbrido,Automática,230,1800,7.6,5.7,140,44000,Sedán
+VH050,Mercedes,GLC,2024,Híbrido,Automática,250,1400,5.1,3.7,116,44800,Compacto
+VH051,Ford,Mondeo,2022,Gasolina,Manual,149,1800,6.8,5.6,88,30500,Sedán
+VH052,Ford,Focus,2021,Diésel,Manual,197,1800,7.6,5.3,82,34400,Executive
+VH053,Renault,Austral,2021,Gasolina,Automática,166,1800,7.4,6.4,133,33900,SUV
+VH054,Citroën,Space,2024,Diésel,Manual,214,1400,5.1,5.0,129,34900,Sedán
+VH055,Peugeot,408,2023,Gasolina,Automática,122,2000,6.1,6.2,155,30800,SUV
+VH056,Volkswagen,Golf,2023,Diésel,Automática,136,1200,5.0,4.5,138,30300,Sedán
+VH057,Hyundai,Kona,2024,Eléctrico,Automática,200,0,2.3,2.3,0,48000,SUV
+VH058,Volkswagen,Tiguan,2019,Diésel,Manual,97,1400,4.8,3.6,99,25600,Compacto
+VH059,Kia,Niro,2022,Eléctrico,Automática,315,0,1.8,2.2,0,57200,SUV
+VH060,Citroën,C3,2024,Híbrido,Automática,117,2000,4.1,4.4,128,35400,Sedán
+VH061,Citroën,C5,2018,Diésel,Manual,116,2200,7.1,6.1,156,28700,Executive
+VH062,Renault,Megane,2020,Diésel,Automática,107,2000,6.6,3.5,133,29600,Executive
+VH063,Toyota,C-HR,2020,Diésel,Automática,129,1800,4.7,5.1,114,30900,SUV
+VH064,Seat,Ateca,2021,Diésel,Automática,172,1400,7.3,3.8,137,33600,Compacto
+VH065,Kia,Ev6,2022,Diésel,Automática,97,1800,7.4,4.0,107,28400,Sedán
+VH066,Audi,Q3,2020,Híbrido,Automática,232,1200,6.1,4.1,110,43000,SUV
+VH067,Kia,Ev6,2024,Gasolina,Automática,215,1800,7.2,3.8,108,37800,Sedán
+VH068,Mercedes,GLC,2023,Diésel,Automática,231,2000,5.4,6.5,150,39500,Sedán
+VH069,Citroën,Berlingo,2020,Gasolina,Manual,120,2200,4.8,3.9,148,29000,Deportivo
+VH070,Citroën,C5,2019,Gasolina,Automática,160,2200,6.4,5.8,156,34200,Compacto
+VH071,Toyota,Yaris,2020,Gasolina,Manual,167,1200,6.8,3.9,85,30800,Deportivo
+VH072,Seat,Terraco,2023,Eléctrico,Automática,162,0,2.4,2.4,0,45000,Sedán
+VH073,Kia,Ceed,2019,Eléctrico,Automática,258,0,1.6,1.9,0,52600,Sedán
+VH074,Renault,Megane,2019,Gasolina,Automática,111,1400,4.5,5.8,157,28700,SUV
+VH075,Renault,Clio,2024,Diésel,Automática,203,1600,7.4,6.5,119,36400,SUV
+VH076,Volkswagen,Golf,2024,Gasolina,Manual,157,2200,4.3,4.2,150,32000,Compacto
+VH077,Volkswagen,Passat,2021,Diésel,Automática,164,1200,4.9,5.6,138,32500,Compacto
+VH078,Mercedes,GLC,2024,Híbrido,Manual,198,1200,6.2,5.4,114,38200,Executive
+VH079,Toyota,Corolla,2019,Híbrido,Automática,202,1200,5.9,4.4,131,40600,Executive
+VH080,Seat,Arona,2021,Diésel,Manual,200,2200,5.3,4.3,91,35400,Compacto
+VH081,Peugeot,508,2022,Eléctrico,Automática,283,0,1.5,2.6,0,54600,Sedán
+VH082,Peugeot,408,2020,Gasolina,Automática,215,1200,5.9,4.7,121,36600,SUV
+VH083,BMW,X3,2021,Diésel,Automática,192,2000,4.1,3.8,112,36400,Sedán
+VH084,Hyundai,Ionic,2024,Eléctrico,Automática,241,0,1.6,2.3,0,51300,SUV
+VH085,Kia,Picanto,2024,Gasolina,Automática,230,1400,7.7,4.8,142,38200,Compacto
+VH086,Peugeot,508,2024,Gasolina,Manual,169,2000,4.1,4.7,108,32500,Deportivo
+VH087,Toyota,C-HR,2018,Diésel,Manual,217,2200,5.2,5.6,133,36800,Executive
+VH088,Kia,Sportage,2021,Diésel,Automática,138,2000,6.0,6.1,88,32000,Compacto
+VH089,Hyundai,Kona,2024,Diésel,Manual,162,2200,5.2,5.3,142,32400,Executive
+VH090,Kia,Ev6,2021,Gasolina,Automática,206,1600,7.5,6.4,110,36700,SUV
+VH091,Mercedes,Clase E,2018,Gasolina,Automática,187,1800,8.0,5.9,99,35600,Sedán
+VH092,Volkswagen,Polo,2022,Eléctrico,Automática,161,0,2.4,2.2,0,44900,SUV
+VH093,Kia,Niro,2023,Gasolina,Manual,109,1800,7.1,4.3,159,27300,SUV
+VH094,Peugeot,208,2024,Gasolina,Automática,171,2200,6.9,5.8,149,35100,Compacto
+VH095,Toyota,Yaris,2023,Diésel,Automática,148,2200,4.4,6.4,92,33200,Sedán
+VH096,Citroën,C4,2018,Gasolina,Manual,165,1600,5.5,3.9,147,31400,Sedán
+VH097,Peugeot,308,2019,Gasolina,Automática,248,2200,5.0,6.2,98,41200,Compacto
+VH098,Peugeot,2008,2021,Gasolina,Manual,209,1600,6.7,4.0,136,34900,Executive
+VH099,Renault,Renault 5,2023,Eléctrico,Automática,252,0,2.3,2.0,0,52200,Sedán
+VH100,Kia,Niro,2019,Gasolina,Automática,237,1600,8.0,4.4,130,39200,Compacto
+VH101,Renault,Megane,2022,Híbrido,Automática,148,2000,7.2,4.2,104,37800,SUV
+VH102,Peugeot,308,2023,Gasolina,Manual,169,1800,4.1,4.6,96,32100,Compacto
+VH103,Audi,Q3,2023,Diésel,Manual,123,2000,7.5,4.6,144,28800,Executive
+VH104,BMW,X3,2024,Eléctrico,Automática,327,0,2.4,2.6,0,58200,Sedán
+VH105,Toyota,Yaris,2024,Eléctrico,Automática,278,0,1.9,2.6,0,54200,Compacto
+VH106,Seat,Leon,2021,Gasolina,Automática,239,1800,7.3,6.3,93,39700,SUV
+VH107,Kia,Niro,2022,Híbrido,Automática,246,1400,6.6,5.4,139,44500,Executive
+VH108,Audi,Q5,2018,Gasolina,Manual,167,1800,4.5,4.2,148,32000,Compacto
+VH109,Kia,Ceed,2023,Eléctrico,Automática,286,0,2.2,2.0,0,54900,Sedán
+VH110,Toyota,C-HR,2022,Diésel,Automática,98,2200,5.5,4.8,110,29200,Executive
+VH111,Toyota,RAV4,2022,Eléctrico,Automática,151,0,1.9,2.0,0,44100,Compacto
+VH112,Kia,Niro,2023,Gasolina,Manual,102,1600,5.0,3.9,152,26400,Compacto
+VH113,Seat,Ibiza,2022,Gasolina,Manual,174,1400,7.2,5.3,115,31700,Executive
+VH114,BMW,Serie 1,2022,Gasolina,Manual,118,2200,7.5,3.9,125,28800,SUV
+VH115,Mercedes,GLC,2018,Gasolina,Manual,122,2200,5.7,3.8,88,29200,Sedán
+VH116,Ford,Focus,2022,Gasolina,Manual,247,1200,6.9,6.2,146,37200,Sedán
+VH117,Peugeot,208,2018,Eléctrico,Automática,245,0,2.2,2.3,0,51600,Executive
+VH118,Toyota,Corolla,2020,Diésel,Manual,122,1600,6.5,5.3,121,28000,Sedán
+VH119,Renault,Arkana,2020,Diésel,Automática,115,2200,4.5,5.5,150,30600,SUV
+VH120,Mercedes,Clase E,2021,Híbrido,Automática,176,1800,5.6,5.7,120,39700,Sedán
+VH121,Peugeot,2008,2020,Eléctrico,Automática,153,0,1.6,1.9,0,44200,Sedán
+VH122,Citroën,C4,2024,Gasolina,Manual,240,2000,6.2,5.5,132,38200,Sedán
+VH123,Peugeot,408,2024,Eléctrico,Manual,209,0,2.1,2.2,0,46700,SUV
+VH124,Mercedes,Clase C,2023,Diésel,Manual,179,2000,5.5,5.8,153,33300,Compacto
+VH125,Hyundai,Ionic,2024,Híbrido,Manual,245,2200,7.3,4.3,103,44000,Compacto
+VH126,Audi,Q3,2020,Gasolina,Manual,234,2200,5.6,3.9,83,38100,Compacto
+VH127,Seat,Ibiza,2021,Diésel,Automática,130,1600,5.2,4.5,152,30600,SUV
+VH128,Volkswagen,Polo,2019,Híbrido,Manual,110,1600,5.8,4.8,157,32000,Sedán
+VH129,Audi,A4,2024,Diésel,Automática,200,1200,5.1,5.5,142,35400,SUV
+VH130,Audi,A3,2019,Gasolina,Manual,91,1400,5.2,4.1,97,25100,SUV
+VH131,Audi,Q3,2018,Gasolina,Automática,134,1400,5.5,5.6,144,30500,SUV
+VH132,Peugeot,2008,2018,Gasolina,Manual,201,1200,5.8,3.7,120,33500,SUV
+VH133,Renault,Austral,2023,Diésel,Automática,119,1800,4.1,4.5,159,30100,Sedán
+VH134,Citroën,C4,2018,Diésel,Manual,152,1800,6.4,5.1,130,30800,Executive
+VH135,Citroën,C4,2019,Gasolina,Manual,109,2000,6.5,5.1,104,27700,Executive
+VH136,Ford,Mondeo,2023,Eléctrico,Manual,196,0,1.6,2.1,0,45700,Compacto
+VH137,BMW,Serie 3,2019,Eléctrico,Automática,254,0,2.3,2.6,0,52300,Sedán
+VH138,Renault,Arkana,2020,Híbrido,Automática,128,1800,4.3,4.8,118,35800,SUV
+VH139,Renault,Megane,2020,Diésel,Automática,208,1800,4.2,4.6,116,37200,Compacto
+VH140,Toyota,C-HR,2021,Diésel,Manual,205,2000,6.6,4.5,140,35400,SUV
+VH141,Volkswagen,Passat,2018,Híbrido,Automática,111,2000,6.6,3.6,136,34900,Deportivo
+VH142,Seat,Arona,2022,Gasolina,Automática,162,1800,5.6,4.5,156,33600,Compacto
+VH143,Peugeot,2008,2018,Gasolina,Automática,162,1600,6.9,5.5,157,33200,Executive
+VH144,Ford,Puma,2022,Diésel,Automática,169,2200,6.8,4.7,156,34900,SUV
+VH145,Toyota,RAV4,2022,Gasolina,Automática,122,2200,6.8,6.3,147,31200,Compacto
+VH146,Peugeot,408,2022,Gasolina,Automática,169,1400,7.8,4.5,142,33300,Compacto
+VH147,BMW,Serie 1,2018,Gasolina,Manual,219,2000,7.3,6.2,84,36500,SUV
+VH148,Renault,Clio,2022,Gasolina,Manual,136,2200,7.1,5.9,101,30300,SUV
+VH149,Volkswagen,Passat,2020,Diésel,Manual,203,2000,5.1,5.7,137,35200,Compacto
+VH150,Mercedes,GLC,2024,Híbrido,Manual,184,2200,7.8,6.5,139,39100,SUV
+VH151,Hyundai,Ionic,2022,Diésel,Manual,141,2000,4.6,4.3,141,30300,Executive
+VH152,Seat,Leon,2023,Híbrido,Manual,162,1200,7.1,4.3,145,35400,Compacto
+VH153,Hyundai,i20,2019,Híbrido,Automática,96,1800,4.2,5.0,110,33300,Sedán
+VH154,Toyota,RAV4,2019,Gasolina,Manual,175,1400,4.6,4.4,140,31800,SUV
+VH155,BMW,X1,2021,Diésel,Manual,94,1600,4.9,3.9,157,25700,SUV
+VH156,Toyota,RAV4,2019,Gasolina,Manual,151,1800,6.6,5.4,88,30700,Compacto
+VH157,Kia,Ev6,2022,Gasolina,Manual,126,1600,5.7,5.3,110,28300,SUV
+VH158,BMW,Serie 3,2022,Eléctrico,Manual,270,0,2.0,2.6,0,51600,SUV
+VH159,Volkswagen,Passat,2024,Diésel,Automática,185,1600,7.0,4.6,88,35000,Sedán
+VH160,Citroën,C3,2024,Diésel,Automática,124,1200,5.4,4.5,102,29300,Executive
+VH161,Peugeot,408,2023,Diésel,Manual,124,1200,6.9,6.3,84,27300,Compacto
+VH162,Volkswagen,Polo,2018,Gasolina,Automática,221,1800,8.0,5.1,112,38300,Compacto
+VH163,Peugeot,308,2020,Gasolina,Manual,174,1600,4.5,4.6,131,32100,SUV
+VH164,Hyundai,Kona,2019,Diésel,Automática,184,2000,5.1,3.7,134,35700,Compacto
+VH165,Renault,Clio,2022,Gasolina,Manual,110,1600,6.6,4.4,157,27000,SUV
+VH166,BMW,X1,2020,Diésel,Automática,247,1800,5.1,6.4,87,40400,Compacto
+VH167,Peugeot,408,2020,Diésel,Manual,97,1400,7.4,5.5,136,25600,Compacto
+VH168,Toyota,Yaris,2024,Diésel,Automática,188,2000,4.1,4.0,137,36000,Executive
+VH169,Ford,Fiesta,2024,Gasolina,Manual,225,1600,5.6,5.4,111,36200,Deportivo
+VH170,Volkswagen,Polo,2021,Diésel,Manual,157,1600,6.8,4.1,158,30800,Compacto
+VH171,Kia,Sportage,2018,Gasolina,Manual,205,1400,7.6,4.8,91,34200,Executive
+VH172,Ford,Mondeo,2023,Gasolina,Automática,166,1400,6.8,6.3,102,33100,SUV
+VH173,Seat,Ibiza,2018,Eléctrico,Manual,196,0,2.3,1.8,0,45700,SUV
+VH174,Ford,Fiesta,2024,Eléctrico,Manual,292,0,2.4,1.9,0,53400,Sedán
+VH175,Citroën,Berlingo,2022,Diésel,Automática,237,1200,4.5,4.5,89,38400,Sedán
+VH176,Peugeot,508,2020,Gasolina,Manual,123,1800,6.0,6.1,95,28400,SUV
+VH177,Audi,A4,2019,Gasolina,Manual,178,2000,7.6,6.0,112,33200,Compacto
+VH178,Seat,Terraco,2019,Diésel,Manual,218,2200,4.7,6.3,99,36800,Compacto
+VH179,Renault,Arkana,2020,Híbrido,Manual,97,1200,4.2,5.4,153,30200,Compacto
+VH180,Mercedes,Clase E,2022,Diésel,Automática,250,2000,5.2,6.4,141,41000,Compacto
+VH181,Peugeot,408,2020,Diésel,Manual,130,1800,5.7,4.9,123,29000,SUV
+VH182,Ford,Mondeo,2023,Eléctrico,Automática,238,0,1.6,2.2,0,51000,SUV
+VH183,Ford,Kuga,2021,Gasolina,Automática,153,1400,4.4,4.4,129,32000,Executive
+VH184,Hyundai,i30,2024,Eléctrico,Automática,283,0,2.2,2.0,0,54600,Compacto
+VH185,Seat,Ateca,2021,Híbrido,Automática,95,1200,7.8,5.0,110,32000,Compacto
+VH186,Ford,Puma,2018,Gasolina,Automática,163,2000,4.0,3.8,97,34000,Executive
+VH187,Citroën,C4,2024,Diésel,Manual,192,1200,6.3,4.1,150,32800,Compacto
+VH188,Hyundai,Ionic,2021,Híbrido,Automática,249,2200,6.4,3.9,92,46300,Sedán
+VH189,Ford,Focus,2020,Híbrido,Manual,244,2000,5.6,3.6,84,43500,Compacto
+VH190,Ford,Fiesta,2022,Diésel,Manual,173,2000,5.3,4.7,158,32800,SUV
+VH191,Audi,Q3,2022,Híbrido,Automática,234,1600,5.9,3.5,122,43900,SUV
+VH192,Hyundai,Ionic,2020,Híbrido,Manual,242,1800,5.1,5.5,154,43000,SUV
+VH193,Citroën,C3,2022,Diésel,Automática,127,2200,5.0,5.2,94,31600,Compacto
+VH194,Kia,Ceed,2021,Gasolina,Manual,195,2000,7.1,6.3,87,34600,SUV
+VH195,Seat,Ibiza,2022,Gasolina,Automática,224,1800,5.3,4.0,148,38500,Sedán
+VH196,Ford,Mondeo,2022,Diésel,Manual,161,2000,5.2,6.3,118,31900,SUV
+VH197,Citroën,C5,2023,Híbrido,Automática,212,1600,6.2,6.3,115,42200,Compacto
+VH198,Renault,Arkana,2021,Híbrido,Automática,178,1400,5.2,4.4,90,39000,Sedán
+VH199,Kia,Ceed,2023,Diésel,Manual,227,1600,7.7,5.6,97,36400,Compacto
+VH200,Citroën,Space,2019,Gasolina,Manual,149,1200,4.4,4.5,140,29300,Compacto
+VH201,BMW,Serie 3,2022,Eléctrico,Manual,240,0,2.2,2.7,0,49200,Sedán
+VH202,Peugeot,308,2024,Eléctrico,Automática,209,0,2.1,2.7,0,48700,Compacto
+VH203,Renault,Clio,2022,Híbrido,Manual,134,1800,7.5,4.0,84,34300,Deportivo
+VH204,Hyundai,Tucson,2019,Eléctrico,Automática,145,0,1.5,2.4,0,43600,Compacto
+VH205,Ford,Mondeo,2021,Eléctrico,Automática,170,0,2.4,2.3,0,45600,Compacto
+VH206,Toyota,RAV4,2019,Híbrido,Automática,137,1200,6.9,5.9,152,35400,SUV
+VH207,Mercedes,Clase C,2022,Híbrido,Automática,199,2000,5.3,4.7,92,41900,Compacto
+VH208,BMW,X1,2020,Eléctrico,Manual,202,0,1.9,2.2,0,46200,Compacto
+VH209,Ford,Mondeo,2022,Híbrido,Manual,156,2200,5.4,4.2,95,36900,Sedán
+VH210,BMW,X1,2023,Diésel,Automática,120,2200,7.7,4.4,158,31000,Compacto
+VH211,BMW,X1,2019,Diésel,Automática,196,2200,6.2,4.9,148,37100,Executive
+VH212,Mercedes,Clase C,2023,Híbrido,Manual,224,1800,6.1,4.6,152,41500,Compacto
+VH213,Seat,Arona,2019,Diésel,Manual,132,1600,7.4,4.8,106,28800,SUV
+VH214,Kia,Niro,2022,Diésel,Manual,206,1400,6.1,4.9,87,34300,SUV
+VH215,Peugeot,2008,2023,Gasolina,Automática,90,2200,4.9,3.7,134,28600,Sedán
+VH216,Toyota,Corolla,2018,Eléctrico,Automática,144,0,1.8,2.0,0,43500,Compacto
+VH217,Peugeot,408,2020,Eléctrico,Automática,250,0,2.4,2.7,0,52000,Sedán
+VH218,Peugeot,508,2019,Diésel,Automática,120,1400,8.0,4.7,96,29400,SUV
+VH219,Mercedes,Clase A,2024,Gasolina,Automática,208,2200,6.9,4.8,128,38000,Executive
+VH220,Mercedes,Clase E,2020,Gasolina,Manual,118,1200,7.2,4.8,82,26800,Compacto
+VH221,Toyota,Corolla,2022,Gasolina,Manual,152,2200,4.2,4.8,149,31600,Compacto
+VH222,Volkswagen,Polo,2022,Eléctrico,Manual,323,0,2.1,2.4,0,55800,SUV
+VH223,Ford,Kuga,2020,Híbrido,Manual,195,1600,5.1,5.2,155,38800,Executive
+VH224,BMW,X1,2022,Diésel,Automática,187,2000,5.3,4.7,99,36000,Compacto
+VH225,BMW,X1,2019,Híbrido,Automática,126,1800,7.7,5.2,133,35700,SUV
+VH226,BMW,X1,2019,Gasolina,Automática,110,1800,7.4,3.8,104,29400,Compacto
+VH227,Hyundai,Ionic,2022,Gasolina,Manual,138,2000,6.9,5.2,141,30000,Compacto
+VH228,Ford,Mondeo,2018,Gasolina,Manual,120,2200,8.0,4.9,111,29000,SUV
+VH229,Citroën,C5,2021,Eléctrico,Automática,334,0,1.8,2.3,0,58700,SUV
+VH230,Audi,Q3,2020,Diésel,Automática,209,1200,7.2,5.7,120,36100,Executive
+VH231,Ford,Mondeo,2021,Gasolina,Manual,127,1200,5.0,6.3,154,27600,SUV
+VH232,Audi,A4,2019,Gasolina,Automática,235,1400,6.0,5.5,123,38600,Compacto
+VH233,Kia,Picanto,2021,Gasolina,Automática,133,1400,6.9,5.0,149,30400,Deportivo
+VH234,Volkswagen,Golf,2024,Híbrido,Manual,91,1800,4.5,5.4,88,30900,SUV
+VH235,Volkswagen,Polo,2022,Diésel,Manual,248,2200,6.7,5.3,141,39200,SUV
+VH236,Volkswagen,Golf,2022,Diésel,Manual,94,2000,6.9,5.1,116,26500,Compacto
+VH237,Citroën,Berlingo,2024,Eléctrico,Manual,163,0,2.4,2.3,0,43000,Compacto
+VH238,Renault,Arkana,2020,Híbrido,Automática,191,1200,5.5,4.7,152,39700,Compacto
+VH239,Citroën,C5,2020,Diésel,Manual,98,1200,5.6,4.6,140,25200,Compacto
+VH240,Volkswagen,Polo,2018,Diésel,Automática,174,2000,7.9,6.4,147,34900,Executive
+VH241,Mercedes,Clase C,2024,Diésel,Automática,159,1200,7.7,5.6,115,32100,Executive
+VH242,Renault,Megane,2019,Eléctrico,Automática,140,0,2.5,2.4,0,43200,SUV
+VH243,Citroën,Berlingo,2018,Gasolina,Manual,235,1800,6.7,5.1,129,37400,SUV
+VH244,BMW,Serie 3,2022,Híbrido,Automática,103,1200,5.7,6.0,123,32600,SUV
+VH245,Renault,Arkana,2021,Eléctrico,Automática,143,0,2.1,2.6,0,43400,Sedán
+VH246,Mercedes,GLC,2022,Eléctrico,Automática,183,0,2.2,2.5,0,46600,Compacto
+VH247,Renault,Renault 5,2024,Gasolina,Manual,111,1600,4.6,5.6,99,27100,SUV
+VH248,Ford,Mondeo,2018,Gasolina,Automática,203,1600,7.0,3.8,91,36400,Compacto
+VH249,Kia,Ev6,2022,Diésel,Manual,96,1200,5.4,3.8,156,25100,SUV
+VH250,Hyundai,i20,2020,Diésel,Manual,233,1400,6.3,4.0,128,36400,Compacto
+VH251,Audi,Q3,2020,Diésel,Manual,132,1800,5.1,4.4,89,29200,Sedán
+VH252,Mercedes,Clase E,2022,Diésel,Automática,117,1400,5.2,6.3,122,29200,Executive
+VH253,Hyundai,Kona,2021,Gasolina,Manual,166,1600,6.4,5.6,141,31500,Sedán
+VH254,Hyundai,Kona,2020,Híbrido,Automática,237,1400,5.3,4.3,130,43800,Sedán
+VH255,Renault,Clio,2022,Eléctrico,Manual,310,0,2.3,1.8,0,54800,SUV
+VH256,Citroën,C5,2021,Híbrido,Manual,194,2200,6.0,5.4,110,39900,Compacto
+VH257,BMW,X1,2024,Gasolina,Automática,243,1800,6.3,5.1,133,40000,SUV
+VH258,Ford,Focus,2022,Diésel,Manual,117,1400,6.6,4.6,158,27200,Compacto
+VH259,Peugeot,408,2024,Gasolina,Automática,117,1200,4.4,4.2,146,28800,SUV
+VH260,Citroën,Space,2019,Diésel,Automática,208,2200,6.4,5.0,124,38000,Deportivo
+VH261,Kia,Niro,2020,Diésel,Manual,119,2200,4.6,4.4,138,28900,SUV
+VH262,Seat,Ateca,2020,Diésel,Automática,205,1600,4.3,3.6,94,36600,Compacto
+VH263,Ford,Puma,2023,Híbrido,Manual,222,1400,6.2,4.5,134,40600,Deportivo
+VH264,Mercedes,Clase E,2023,Gasolina,Automática,191,1200,6.9,6.1,137,34700,SUV
+VH265,Hyundai,i20,2023,Gasolina,Automática,106,2000,4.4,6.1,103,29500,Sedán
+VH266,Mercedes,Clase E,2018,Gasolina,Automática,225,2200,5.3,4.7,130,39400,SUV
+VH267,Ford,Mondeo,2024,Diésel,Manual,166,2000,6.4,5.5,120,32300,Compacto
+VH268,Audi,A3,2019,Gasolina,Manual,220,1800,5.7,3.9,129,36200,Sedán
+VH269,Kia,Ev6,2023,Eléctrico,Manual,278,0,1.7,2.1,0,52200,Compacto
+VH270,Kia,Ev6,2018,Híbrido,Manual,214,1400,4.8,4.7,151,39900,SUV
+VH271,Kia,Picanto,2023,Diésel,Automática,215,1400,4.3,3.6,108,37000,Compacto
+VH272,Audi,A4,2022,Gasolina,Automática,234,2200,7.1,5.0,145,40100,Compacto
+VH273,Toyota,RAV4,2024,Diésel,Automática,228,1200,7.0,4.8,107,37600,Deportivo
+VH274,Toyota,Yaris,2020,Híbrido,Manual,205,1600,5.4,6.0,136,39600,Executive
+VH275,Toyota,Yaris,2019,Híbrido,Automática,246,2200,5.7,5.3,106,46100,Executive
+VH276,Volkswagen,Tiguan,2022,Gasolina,Manual,172,2200,5.2,5.2,145,33200,Deportivo
+VH277,Peugeot,208,2019,Eléctrico,Automática,151,0,2.5,2.7,0,44100,Compacto
+VH278,BMW,Serie 1,2019,Híbrido,Manual,190,1800,4.6,5.4,160,38800,Sedán
+VH279,Kia,Niro,2023,Híbrido,Manual,193,2000,7.0,5.6,127,39400,Sedán
+VH280,Kia,Ceed,2022,Gasolina,Manual,207,2200,6.7,4.6,88,36000,SUV
+VH281,Hyundai,i30,2021,Híbrido,Automática,158,1600,7.3,4.5,153,37800,Compacto
+VH282,Kia,Ceed,2023,Híbrido,Manual,115,2200,7.1,4.9,95,33600,Executive
+VH283,BMW,X1,2021,Gasolina,Automática,141,2200,7.6,6.1,118,32700,Compacto
+VH284,Audi,A3,2023,Gasolina,Manual,185,2200,7.6,4.0,130,34200,SUV
+VH285,Citroën,C5,2021,Diésel,Manual,90,1400,5.9,3.9,108,25000,SUV
+VH286,Kia,Niro,2018,Diésel,Manual,198,2200,4.5,3.7,129,35200,Compacto
+VH287,Toyota,Corolla,2020,Gasolina,Automática,125,1800,7.1,5.8,97,30600,SUV
+VH288,Peugeot,308,2018,Diésel,Manual,246,2200,4.7,4.6,107,39100,SUV
+VH289,BMW,X1,2022,Diésel,Manual,112,1200,4.6,3.9,129,26400,Sedán
+VH290,Hyundai,Kona,2024,Gasolina,Automática,111,1400,6.2,5.3,157,28700,Compacto
+VH291,Citroën,C3,2024,Híbrido,Automática,142,2000,6.4,4.1,130,37400,Compacto
+VH292,Volkswagen,Polo,2021,Gasolina,Manual,217,2200,6.4,5.1,81,36800,Deportivo
+VH293,Ford,Kuga,2021,Híbrido,Automática,183,2000,6.7,5.8,89,40600,Compacto
+VH294,Toyota,Corolla,2020,Gasolina,Manual,191,2000,5.1,5.6,133,34300,Sedán
+VH295,Hyundai,i20,2023,Diésel,Manual,161,1200,5.2,5.0,106,30300,Deportivo
+VH296,BMW,X3,2021,Diésel,Manual,169,2200,5.7,6.4,110,32900,Compacto
+VH297,Toyota,C-HR,2018,Diésel,Manual,169,2200,7.0,5.7,95,32900,Compacto
+VH298,BMW,Serie 3,2019,Diésel,Automática,223,2000,7.1,5.7,101,38800,Sedán
+VH299,Citroën,C4,2023,Híbrido,Manual,175,1800,5.1,3.7,153,37600,SUV
+VH300,Kia,Picanto,2022,Gasolina,Automática,235,1400,5.5,4.3,93,38600,Executive
